@@ -1,0 +1,11 @@
+
+* Introduction
+This first chapter will serve to fulfil the following tasks:
+- introduce the problem
+- summarise the solution
+- outline the thesis
+
+* Preliminaries
+This second chapter contains both theoretical and empirical
+preliminaries on the framework, the language, methods and
+similar stuff
