@@ -50,3 +50,9 @@ with focus particles.
 ** Are crossover effects a scope phenomenon?
 ** Can crossover effects be reduced to Principle C or is there more to them than meets the eye?
 ** No crossover effects in Avar: how can that be?
+In the preceding chapter we were faced with the fact that in Avar, the ex-situ /wh/-phrases 
+didn't display any crossover effects, other things being equal. I used this observation to
+argue for a base-generation analysis of such constructions with the /wh/-phrase forming the
+predicate of a pseudocleft. Whilst this move could explain the absence of crossover effects
+in principle, it still doesn't say much about why Principle C effects are absent in this 
+context as well.
