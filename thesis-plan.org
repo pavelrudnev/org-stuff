@@ -1,11 +1,52 @@
-
+#+LaTeX_CLASS: djcb-org-article
+#+TITLE: Thesis plan
+#+AUTHOR: Pavel Rudnev
 * Introduction
 This first chapter will serve to fulfil the following tasks:
-- introduce the problem
+- introduce the problem (which I'm having difficulties with in the sense that it's hard for me to formulate a /theoretical/ rather than just empirical issue)
 - summarise the solution
 - outline the thesis
 
-* Preliminaries
+* Preliminaries (essentially a literature review of sorts)
 This second chapter contains both theoretical and empirical
 preliminaries on the framework, the language, methods and
-similar stuff
+similar stuff.
+** The language
+Essentially a version of my 1st year report, where I presented
+a brief sketch of Avar grammar. This will have to be made more
+precise and concise. I might also want to add a bit more on the
+history of academic inquiry into the language, starting from the
+19th century.
+** The framework
+*** Minimalism
+1. Narrow syntax is Merge
+2. Merge is unrestricted
+3. Information structure
+4. Scope
+5. Externalisation: FWO languages and discourse configurationality
+   
+* The Avar clause
+This chapter develops the functional sequence for the Avar clause
+and also addresses the head-finality issue. Moreover, it introduces
+several word-order- and scope-related puzzles such as virtually free
+placement of wh-phrases, ex- and in-situ focus marking, as well as the 
+most salient restrictions on word order (mandatory head finality in 
+relative clauses and the order of arguments in the biäbsolutive 
+construction).
+
+* Questions and focus
+Very clear morphosyntactic parallels between /wh/-questions and sentences
+with focus particles. 
+- Aims: 
+- develop a unified syntax for both 
+- show how this unified syntax maps to semantics
+- Side effects:
+- uncover a new problem, ie absence of crossover effects in questions and focus sentences which still remains unresolved on the theory developed in this chapter.
+- address this problem in the following chapter
+
+
+* Crossover effects: towards an account
+** Do crossover effects result from movement?
+** Are crossover effects a scope phenomenon?
+** Can crossover effects be reduced to Principle C or is there more to them than meets the eye?
+** No crossover effects in Avar: how can that be?
