@@ -1,11 +1,18 @@
-#+LaTeX_CLASS: djcb-org-article
 #+TITLE: Thesis plan
 #+AUTHOR: Pavel Rudnev
+#+DATE: 22nd February 2013
+#+OPTIONS: toc:nil num:nil
+#+LATEX_CMD: xelatex
+#+LATEX_HEADER: \setsansfont[Mapping=tex-text]{Fedra Sans Pro Book}
+#+LATEX_HEADER: \setmonofont[Mapping=tex-text,Scale=MatchLowercase]{Inconsolata}
+#+LATEX_HEADER: \setromanfont[Mapping=tex-text,Numbers={OldStyle,Proportional},Scale=MatchLowercase]{Fedra Serif B Pro Book}
+#+LATEX_HEADER: \SetProtrusion   [ name     = {LocalSettings} ]   { encoding = {EU1},     family   = {Fedra}  }   {     {,} = {  ,500},      -  = {  ,500},     {.} = {  ,500},     {`} = {500, },     {'} = {, 500},     {(} = {500,} ,     {)} = {,500}   }
+
 * Introduction
 This first chapter will serve to fulfil the following tasks:
 - introduce the problem (which I'm having difficulties with in the sense that it's hard for me to formulate a /theoretical/ rather than just empirical issue)
 - summarise the solution
-- outline the thesis
+- present the structure of the thesis
 
 * Preliminaries (essentially a literature review of sorts)
 This second chapter contains both theoretical and empirical
@@ -25,6 +32,9 @@ history of academic inquiry into the language, starting from the
 4. Scope
 5. Externalisation: FWO languages and discourse configurationality
    
+*** Syntax-to-Semantics Mapping
+1. The semantic component: available theories
+2. LF: what is it?
 * The Avar clause
 This chapter develops the functional sequence for the Avar clause
 and also addresses the head-finality issue. Moreover, it introduces
@@ -33,6 +43,20 @@ placement of wh-phrases, ex- and in-situ focus marking, as well as the
 most salient restrictions on word order (mandatory head finality in 
 relative clauses and the order of arguments in the biäbsolutive 
 construction).
+
+* Avar relative clauses
+** Which kind of analysis: HEA, HRA or MA?
+See what kind of analysis is the most compatible one with what we observe
+in Avar: the data for this are still to be elicited
+** Where do restrictions on word order come from? The *V-init generalisation
+I already have the relevant observation but don't quite know what to do with it: 
+I somehow find the most intuitive answer (/ie/ that certain orders are excluded
+because certain movements to certain information structure-related functional
+projections are impossible because these projections only appear in root clauses)
+profoundly unsatisfactory, since it's loaded with assumptions one has to take
+on faith. Besides, this line of analysis would hit the roadblock of Avar actually
+allowing non-verb-final orders in /other/ kinds of non-root clauses such as 
+converbial adjunct clauses.
 
 * Questions and focus
 Very clear morphosyntactic parallels between /wh/-questions and sentences
@@ -44,11 +68,17 @@ with focus particles.
 - uncover a new problem, ie absence of crossover effects in questions and focus sentences which still remains unresolved on the theory developed in this chapter.
 - address this problem in the following chapter
 
+This chapter runs the risk of getting rather long, since in addition to what I already have on matrix /wh/-questions I'm planning to add the discussion
+of embedded questions /as well as/ contrastive focus, whose behaviour more or less resembles that of /wh/-phrases with some important differences.
 
 * Crossover effects: towards an account
-** Do crossover effects result from movement?
+** Do crossover effects result from movement or can they be reduced to the Binding Principles?
+Is there anything specific that has to do with movement which is responsible for crossover effects arising? 
+Apparently the question of reconstruction must be addressed here as well, since as far as crossover is concerned, 
+it's usually the pre-movement configuration that matters for the purposes of binding.
 ** Are crossover effects a scope phenomenon?
-** Can crossover effects be reduced to Principle C or is there more to them than meets the eye?
+This alludes to Eddie Ruys' LI paper on WCO as a scope phenomenon from several years back. I'm not sure I fully understand his proposal 
+(let alone of WCO being explained the same way as SCO---I'm in full agreement with you there).
 ** No crossover effects in Avar: how can that be?
 In the preceding chapter we were faced with the fact that in Avar, the ex-situ /wh/-phrases 
 didn't display any crossover effects, other things being equal. I used this observation to
@@ -56,3 +86,10 @@ argue for a base-generation analysis of such constructions with the /wh/-phrase 
 predicate of a pseudocleft. Whilst this move could explain the absence of crossover effects
 in principle, it still doesn't say much about why Principle C effects are absent in this 
 context as well.
+* What else?..
+There's more stuff I'd like included but I'm not quite sure how to incorporate it. Hopefully
+as I write things up this will become clearer.
+
+This other stuff is from two domains: anaphora and indexicality (so far I've got at least the
+data and pieces of a proposal about binding but sadly not enough data for a proposal regarding
+indexicality and indexical shifting). 
