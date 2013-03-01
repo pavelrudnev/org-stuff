@@ -1,0 +1,35 @@
+
+* What we want to know about relative clauses
+** Structure
+1. What is the nature of the gap? Is it a /pro/ or a trace? (I.e., does relativisation involve A-bar movement of the relative clause head?)[fn:1] 
+2. Can the head of the relative clause be traced back in any way to a position inside the relative CP?[fn:2]
+- Reconstruction with idiom interpretation
+- Reconstruction with adjectival modifiers
+2. Do we observe WCO and SCO?
+- Do we observe WCO and SCO with /overt/ pronouns (reflexives, logophors or demonstratives)?
+- Do we observe WCO and SCO with /null/ pronouns (in regular /pro/-drop configurations)?
+2. Is relativisation unbounded?
+- /The man/ that he said he will hit /t/
+- /The book/ that John said that Mary read /t/
+- [ben- im adam- ın gör- düğü- nü düşün- düğ- üm] çocuk `the child whom I think that the man saw'
+- [sen- in çocuğ- u gör- düğü- nü düşün- düğ- ün] adam `the man who you think saw the child'
+2. Do we observe parasitic gaps and what can they tell us about the nature of the derivations?
+** Order
+** Other
+  
+* What we already know about Avar relative clauses
+** Structure
+** Order
+** Other
+
+* What we don't yet know about Avar relative clauses
+** Structure
+** Order
+** Other
+
+* Footnotes
+
+[fn:1] If there's evidence that there is movement, this would in principle rule out the Head-External analysis of relative clauses, although I'm not entirely convinced that that's the case -- after all, HEA doesn't say that there's /no movement/, only that the external head originates in a relative clause-external position.
+
+[fn:2] If the head /can/ be located inside the relative clause, the HEA is indeed in trouble. It's not clear, of course, which tests could be used to unambiguously show that.
+
